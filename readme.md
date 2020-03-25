@@ -1,5 +1,5 @@
 # Star Wars
 
-![./tiefighter.png](Tie_Fighter)
+![Tie Fighter](./tiefighter.png)
 
 Este repositório serve de exemplo para o curso de Git
